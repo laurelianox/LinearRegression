@@ -4,6 +4,10 @@ Prática: Prever o valor da diaria pela quantidade de pessoas.
 ## O que é ?
 Regressão Linear é um **aprendizado supervisionado** que é utilizado para realizar previsão de valores baseado em outro valor de variável.
 
+## Versões:
+LinearRegression - versão com comentários sobre as bibliotecas e métodos usados. Aconselhado para estudantes.<br>
+LenearRegressionGit - versão só com a aplicação.
+
 ## Nesta prática utilizamos:
 
 Parametros:<br>
